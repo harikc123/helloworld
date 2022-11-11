@@ -3,6 +3,6 @@ import streamlit as st
 st.header('Have a Nice Journey and warm stay in China')
 
 if st.button('Hello everyone'):
-     st.write('Click this!!!!')
+     st.write('I am going to China for PHD!!!!')
 else:
-     st.write('I am going to China for PHD')
+     st.write('Click me!!!')
