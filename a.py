@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.header('st.button')
+st.header('Have a Nice Journey and warm stay in China')
 
-if st.button('Say hello'):
-     st.write('Why hello there')
+if st.button('Hello everyone'):
+     st.write('Click this!!!!')
 else:
-     st.write('Goodbye')
+     st.write('I am going to China for PHD')
